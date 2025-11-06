@@ -48,7 +48,6 @@ It **does not** apply to:
 2. **Reproduction** – We validate and reproduce it in a secure environment.
 3. **Fix Development** – We patch the issue in a private branch.
 4. **Coordinated Release** – The fix is merged publicly after testing and version tagging.
-5. **Disclosure** – A security advisory is published on [x16os.org/security](https://x16os.org/security) and in the repository’s releases.
 
 ---
 
