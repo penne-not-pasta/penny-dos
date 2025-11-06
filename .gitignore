@@ -1,3 +1,7 @@
 /test
+/release
 *.log
 *.tmp
+*.bin
+*.o
+*.so
