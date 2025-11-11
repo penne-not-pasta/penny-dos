@@ -1,5 +1,10 @@
-all: 
-    nasm -f bin ./src/bootloader/boot.asm -o ./src/bin/boot.bin 
+CC = nasm
 
-clean: 
-    rm -f ./src/bin/boot.bin
+all:
+	mkdir build
+	$(CC) src/bootloader.asm -f bin -o build/bootloader.bin
+	$(CC) src/kernel.asm -f bin -o build/kernel.bin
+	cat build/bootloader.bin build/kernel.bin > build/kernel.bin
+	rm build/kernel.bin build/bootloader.bin
+clean:
+	rm -r build
