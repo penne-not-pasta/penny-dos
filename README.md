@@ -23,7 +23,19 @@ The official v1.0 release is currently unknown as of Friday, November 7th, 2025.
 ## Contributors.
 
 <!-- readme: contributors -start -->
-
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/penne-not-pasta">
+                    <img src="https://avatars.githubusercontent.com/u/220403301?v=4" width="100;" alt="penne-not-pasta"/>
+                    <br />
+                    <sub><b>Penelope (Penny) Haley</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ---
