@@ -1,0 +1,18 @@
+site_name: Penny-DOS Docs.
+site_author: Penelope Haley (Penny)
+repo_url: https://github.com/penne-not-pasta/penny-dos
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: getting-started/overview.md
+      - Installation: getting-started/installation.md
+      - Quick Run: getting-started/quick-run.md
+  - Documentation:
+      - Architecture: docs/architecture.md
+      - Assembly Code: docs/assembly-code.md
+      - Building: docs/building.md
+theme:
+  name: material
+  palette:
+    primary: white
+    accent: pink
