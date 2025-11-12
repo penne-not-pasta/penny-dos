@@ -21,4 +21,6 @@ The official v1.0 release is currently unknown as of Friday, November 7th, 2025.
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 
+---
+
 > Updated on 12/11/2025 (11/12/2025 for americans.)
