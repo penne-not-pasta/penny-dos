@@ -35,7 +35,7 @@ The official v1.0 release is currently unknown as of Friday, November 7th, 2025.
                 <a href="https://github.com/penne-not-pasta">
                     <img src="https://avatars.githubusercontent.com/u/220403301?v=4" width="100;" alt="penne-not-pasta"/>
                     <br />
-                    <sub><b>Penelope (Penny) Haley</b></sub>
+                    <sub><b>Penny Haley</b></sub>
                 </a>
             </td>
 		</tr>
@@ -45,4 +45,4 @@ The official v1.0 release is currently unknown as of Friday, November 7th, 2025.
 
 ---
 
-![logo for penny-dos](LOGO.png)
+![logo for penny-dos](lg.png)
