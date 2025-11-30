@@ -1,5 +1,6 @@
 /build
 /docs-for-devs
+/src
 *.log
 *.tmp
 *.o
