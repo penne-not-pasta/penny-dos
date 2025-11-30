@@ -38,6 +38,13 @@ The official v1.0 release is currently unknown as of Friday, November 7th, 2025.
                     <sub><b>Penny Haley</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/servalx4">
+                    <img src="https://avatars.githubusercontent.com/u/113089329?v=4" width="100;" alt="servalx4"/>
+                    <br />
+                    <sub><b>serval_serval_serval_serval</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
